@@ -3,7 +3,6 @@
 - 手机：
 - Email：jackwangcumt@gmail.com
 - QQ/微信号：308106637
-- Online Resume:[GitHub Resume](http://jackwangcumt.github.io/resume/)
 ---
 
 ## 个人信息
@@ -81,3 +80,4 @@
 
 ## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+## Online Resume:![GitHub Resume](http://jackwangcumt.github.io/resume/)
