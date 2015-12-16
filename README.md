@@ -14,7 +14,7 @@
  - 技术博客：http://www.cnblogs.com/isaboy
  - Github：http://github.com/jackwangcumt
  - 期望职位：C#高级程序员，应用架构师
- - 期望薪资：税前月薪0.8k~1.5k，特别喜欢的公司可例外
+ - 期望薪资：税前月薪8k~15k，特别喜欢的公司可例外
  - 期望城市：不限
 
 ---
